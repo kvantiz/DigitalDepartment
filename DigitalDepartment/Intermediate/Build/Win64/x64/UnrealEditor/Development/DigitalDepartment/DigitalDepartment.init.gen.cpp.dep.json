@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\digitaldepartment\\intermediate\\build\\win64\\unrealeditor\\inc\\digitaldepartment\\uht\\digitaldepartment.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\digitaldepartment\\intermediate\\build\\win64\\x64\\digitaldepartmenteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\digitaldepartment\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\digitaldepartment\\definitions.digitaldepartment.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

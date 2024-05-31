@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DigitalDepartment",
+			"Path": "..\\Source\\DigitalDepartment.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DigitalDepartmentEditor",
+			"Path": "..\\Source\\DigitalDepartmentEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

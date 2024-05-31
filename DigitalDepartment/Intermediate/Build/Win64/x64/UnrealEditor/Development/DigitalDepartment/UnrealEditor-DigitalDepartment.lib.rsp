@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DigitalDepartment.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\DigitalDepartment\Intermediate\Build\Win64\x64\DigitalDepartmentEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\Unreal Projects\DigitalDepartment\Intermediate\Build\Win64\x64\UnrealEditor\Development\DigitalDepartment\DigitalDepartment.init.gen.cpp.obj"
+"D:\Unreal Projects\DigitalDepartment\Intermediate\Build\Win64\x64\UnrealEditor\Development\DigitalDepartment\MyActor.gen.cpp.obj"
+"D:\Unreal Projects\DigitalDepartment\Intermediate\Build\Win64\x64\UnrealEditor\Development\DigitalDepartment\MyGameModeBase.gen.cpp.obj"
+"D:\Unreal Projects\DigitalDepartment\Intermediate\Build\Win64\x64\UnrealEditor\Development\DigitalDepartment\MyMapController.gen.cpp.obj"
+"D:\Unreal Projects\DigitalDepartment\Intermediate\Build\Win64\x64\UnrealEditor\Development\DigitalDepartment\MyTitle.gen.cpp.obj"
+"D:\Unreal Projects\DigitalDepartment\Intermediate\Build\Win64\x64\UnrealEditor\Development\DigitalDepartment\DigitalDepartment.cpp.obj"
+"D:\Unreal Projects\DigitalDepartment\Intermediate\Build\Win64\x64\UnrealEditor\Development\DigitalDepartment\MyActor.cpp.obj"
+"D:\Unreal Projects\DigitalDepartment\Intermediate\Build\Win64\x64\UnrealEditor\Development\DigitalDepartment\MyGameModeBase.cpp.obj"
+"D:\Unreal Projects\DigitalDepartment\Intermediate\Build\Win64\x64\UnrealEditor\Development\DigitalDepartment\MyMapController.cpp.obj"
+"D:\Unreal Projects\DigitalDepartment\Intermediate\Build\Win64\x64\UnrealEditor\Development\DigitalDepartment\MyTitle.cpp.obj"
+"D:\Unreal Projects\DigitalDepartment\Intermediate\Build\Win64\x64\UnrealEditor\Development\DigitalDepartment\Default.rc2.res"
+/OUT:"D:\Unreal Projects\DigitalDepartment\Intermediate\Build\Win64\x64\UnrealEditor\Development\DigitalDepartment\UnrealEditor-DigitalDepartment.lib"

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\DigitalDepartment.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DigitalDepartment.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DigitalDepartmentEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\DigitalDepartment">
+      <UniqueIdentifier>{2AB7F0F1-DC7F-3CAB-BA07-AB982FAC60F2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DigitalDepartment\DigitalDepartment.Build.cs">
+      <Filter>Source\DigitalDepartment</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\DigitalDepartment\DigitalDepartment.cpp">
+      <Filter>Source\DigitalDepartment</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DigitalDepartment\DigitalDepartment.h">
+      <Filter>Source\DigitalDepartment</Filter>
+    </ClInclude>
+    <Filter Include="Source\DigitalDepartment\Private">
+      <UniqueIdentifier>{7C2D6102-FE26-3331-9032-8FC5550B1BA2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DigitalDepartment\Private\MyActor.cpp">
+      <Filter>Source\DigitalDepartment\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DigitalDepartment\Private\MyGameModeBase.cpp">
+      <Filter>Source\DigitalDepartment\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DigitalDepartment\Private\MyMapController.cpp">
+      <Filter>Source\DigitalDepartment\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DigitalDepartment\Private\MyTitle.cpp">
+      <Filter>Source\DigitalDepartment\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\DigitalDepartment\Public">
+      <UniqueIdentifier>{04EEE1B5-FC03-3E0C-AE5C-D3E155131BAC}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\DigitalDepartment\Public\MyActor.h">
+      <Filter>Source\DigitalDepartment\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DigitalDepartment\Public\MyGameModeBase.h">
+      <Filter>Source\DigitalDepartment\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DigitalDepartment\Public\MyMapController.h">
+      <Filter>Source\DigitalDepartment\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DigitalDepartment\Public\MyTitle.h">
+      <Filter>Source\DigitalDepartment\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

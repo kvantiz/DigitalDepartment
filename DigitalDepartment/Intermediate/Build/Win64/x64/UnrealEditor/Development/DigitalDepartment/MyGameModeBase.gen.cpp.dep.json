@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\digitaldepartment\\intermediate\\build\\win64\\unrealeditor\\inc\\digitaldepartment\\uht\\mygamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\digitaldepartment\\intermediate\\build\\win64\\x64\\digitaldepartmenteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\digitaldepartment\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\digitaldepartment\\definitions.digitaldepartment.h",
+            "d:\\unreal projects\\digitaldepartment\\source\\digitaldepartment\\public\\mygamemodebase.h",
+            "d:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\unreal projects\\digitaldepartment\\intermediate\\build\\win64\\unrealeditor\\inc\\digitaldepartment\\uht\\mygamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

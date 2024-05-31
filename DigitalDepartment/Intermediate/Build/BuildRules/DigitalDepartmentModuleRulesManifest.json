@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\DigitalDepartment\\Source\\DigitalDepartment\\DigitalDepartment.Build.cs",
+		"D:\\Unreal Projects\\DigitalDepartment\\Source\\DigitalDepartment.Target.cs",
+		"D:\\Unreal Projects\\DigitalDepartment\\Source\\DigitalDepartmentEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.1"
+}
